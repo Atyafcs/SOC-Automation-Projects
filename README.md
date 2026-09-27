@@ -23,4 +23,7 @@ Each link with a different color represents a different process, this being:<br 
 <br />
 4.**Pink** : The shortest link, yet one of the most important. This link is responsible for the enrichment of IOCS needed for the responsive actions later on. Shown in *step 4*.<br />
 <br />
+<br />
+![Alt text](Design.png)
+
 
